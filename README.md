@@ -1,5 +1,4 @@
 # MovieApp
 
-This is a movie app which shows the name of the movie, the description of the movie and his rating by the viewers.
+The Movie App is an application that provides users with detailed information about movies, including ratings, reviews, and cast information. Built with JavaScript, this app offers a seamless experience for movie enthusiasts.
 
-Live Demo : https://replit.com/@RadinaAvramova/Movie-App
